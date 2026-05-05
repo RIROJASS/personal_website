@@ -1,189 +1,272 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Raúl Ignacio Rojas Sillery
+  label: AI Researcher · CS + Anthropology @ University of Florida
+  email: raul.rojas@ufl.edu
+  phone: (305) 842-8433
+  location: Gainesville · Key Biscayne, FL
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Junior at the University of Florida double-majoring in Computer Science and Anthropology. AI Researcher with MIT Critical Data under Dr. Leo Anthony Celi, Break Through Tech AI Fellow (MIT × Cornell Tech), and BCI researcher in the Andujar Lab at UF. Building at the intersection of brains, cultures, and machines.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: RIROJASS
     - network: LinkedIn
-      username: example
+      username: raul-i-rojas
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    city: Gainesville
+    region: Florida
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: University of Florida
+        location: Gainesville, FL
+        url: https://www.ufl.edu/
+        area: Computer Science (B.S.) & Anthropology (B.A.)
+        studyType: Dual Bachelor's
+        start_date: 2023
+        end_date: 2027
         score: ""
-        courses: "Theory of Relativity"
+        courses: "AI Fundamentals, Machine Learning, Data Structures & Algorithms, Engineering Statistics, Computer Architecture, Linear Algebra, GeoAI"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Two majors, one lens — building intelligent systems that take cultural context seriously."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Break Through Tech AI Fellowship
+        location: MIT × Cornell Tech (remote/hybrid)
+        url: https://breakthroughtech.org/programs/the-ai-program/
+        area: AI Fellowship
+        studyType: Selective fellowship
+        start_date: 2025
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Selected for a competitive fellowship bridging AI research and industry deployment.
+          - Built 9 predictive models (customer churn, fraud, outcome classification) paired with the Swytch AI startup.
+
+    Research:
+      - company: MIT Critical Data
+        position: AI Researcher (under Dr. Leo Anthony Celi)
+        location: Remote / MIT
+        start_date: 2025-10
+        end_date: present
+        summary: Co-authoring five active manuscripts across the consortium. Earned the collaboration through cold outreach.
+        highlights:
+          - "ShortKit-ML (IEEE Access, in review) — contributed the unifying ontology bridging anthropological and ML definitions of \"shortcut\"; framework benchmarked on CheXpert, MIMIC-CXR, and CelebA."
+          - "SAKSHI — co-authored a community-operated accountability framework for health AI with collaborators across MIT, Johns Hopkins, McGill, Makerere, UBC, UT Austin."
+          - "Hallucinations Are the Least of Our Concerns — co-authored argument that situated knowledge, not reference-checking, is the prerequisite for responsible LLM use in health."
+          - "The Oracle in Your Pocket — co-authored paper on how LLMs amplify Dunning-Kruger and erode elaborative reasoning."
+          - "AGORA — co-developing a fully agentic simulation of academic publishing to study prestige bias, gaming, and herding among AI agents."
+
+      - company: UF BCI Lab — Dr. Marvin Andujar
+        position: BCI / Neurotechnology Researcher
+        location: Gainesville, FL
+        start_date: 2024
+        end_date: present
+        summary: Ongoing research on brain-computer interface control of aerial drones using real-time EEG signal processing.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: MIT × Cornell Tech — Swytch AI Studio
+        position: Project Lead
+        location: Remote
+        start_date: 2025-08
+        end_date: 2025-12
+        summary: Led a cross-functional team of six analyzing US labor-market data across 12 macroeconomic sources to build a workforce-forecasting model.
         highlights:
-          - Relativity
-          - Description 2.
+          - Built a forecasting model achieving 85% prediction accuracy for workforce fluctuations.
+          - Segmented 1,000 occupations by skills, tools, and market trends using ONET and Indeed data — enabling 30% more efficient career-pivot recommendations.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: UF College of Medicine
+        position: Metacognitive AI Intern (under Dr. Benjamin Shickel)
+        location: Gainesville, FL
+        start_date: 2025-08
+        end_date: 2025-12
+        summary: Prototyped an AI tutoring system integrating Socratic dialogue to address gaps in medical education delivery.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Improved student learning outcomes by 80% and metacognitive efficiency by 75%.
+          - Reduced benchmark errors by 20% through iterative feedback cycles with faculty stakeholders.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Northrop Grumman — Mission Systems
+        position: AI/ML Intern
+        location: Defense
+        start_date: 2025-05
+        end_date: 2025-08
+        summary: Developed trust and reliability protocols for LLM-based systems in high-stakes defense environments.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Reduced query errors by 60% in high-stakes defense environments.
+          - Cut project time by 45% by streamlining algorithm development workflows.
+          - Mentored 5+ cross-functional employees on ML integration; authored docs that increased workflow adoption 4×.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: funQ
+        position: Founder
+        location: Gainesville, FL
+        start_date: 2025-01
+        end_date: present
+        summary: Identified an underserved market for real-time nightlife discovery; designed and built a recommendation platform integrating social media data pipelines, sentiment analysis, and geolocation features.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Florida Museum of Natural History
+        position: Multimodal AI & Data Systems / Computer Vision Intern
+        location: Gainesville, FL
+        start_date: 2024-08
+        end_date: 2025-05
+        summary: Mapped archaeological sites from satellite imagery with ML; redesigned the museum's research-data search and classification pipelines.
+        highlights:
+          - Improved retrieval speed by 40× and feature detection by 8× through redesigned search and classification systems.
+          - Deployed scalable data pipelines processing 10,000+ records; UX dashboards boosted cross-departmental engagement 200%.
+          - Co-authored research paper and presented at the 2025 Florida Undergraduate Research Conference.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - company: Hackathon — Art Beyond Sight
+        position: Developer
+        location: Gainesville, FL
+        start_date: 2025-10
+        end_date: 2025-10
+        summary: Prototyped an accessibility mobile app converting visual art into soundscapes for visually impaired users — AI image analysis + audio generation.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Leadership:
+      - company: SHPE National Convention
+        position: Corporate Database Director
+        location: Society of Hispanic Professional Engineers
+        start_date: 2024-08
+        end_date: 2024-12
+        summary: Managed the corporate database connecting 35,000+ national members and convention attendees with 400+ industry partners.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - company: Thrift Club (UF)
+        position: Vice President
+        location: Gainesville, FL
+        start_date: 2022-11
+        end_date: 2024-12
+        summary: Scaled operations for a 5,000+ member sustainability organization. Organized 38 swap events collecting 23,000+ items and planned three galas averaging 200 ticket sales.
+
+      - company: United Nations Association — Gainesville Chapter
+        position: Vice President
+        location: Gainesville, FL
+        start_date: 2022-11
+        end_date: 2024-03
+        summary: Designed and led project-based STEM education curriculum for children ages 5–8 through international partner network spanning Gainesville's Sister Cities (Duhok, Qalqilya).
+
+      - company: Brown DSAIY AI-a-Thon
+        position: Data Scientist Mentor
+        location: Brown University
+        start_date: 2025
+        end_date: 2025
+        summary: Mentored teams as a Data Scientist. The relationships formed led directly to MIT Critical Data collaborations, the Mayo Clinic Datathon, and an invitation to the Panama Datathon.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, C, C++, R, MATLAB"
+
+      - name: ML / Data
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, PySpark, SciPy, Jupyter"
+
+      - name: Neurotechnology
+        level: Intermediate
+        icon: fa-solid fa-wave-square
+        keywords: "EEG signal processing, BCI systems, Muse 2 integration, neural data pipelines"
+
+      - name: Research Tools
+        level: Advanced
+        icon: fa-solid fa-pen-to-square
+        keywords: "LaTeX, Overleaf, TikZ, Git"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: "Native"
+
+      - name: Spanish
+        summary: "Native"
+
+      - name: French
+        summary: "Conversational"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: BCI & Neurotechnology
+        icon: fa-solid fa-wave-square
+        keywords: "EEG, BCI, neural data, real-time signal processing"
+
+      - name: ML Interpretability
+        icon: fa-solid fa-magnifying-glass
+        keywords: "Shortcut detection, fairness, situated knowledge, evaluation"
+
+      - name: Anthropology of Intelligent Systems
+        icon: fa-solid fa-people-group
+        keywords: "Eduardo Kohn, Daniel Miller, Alfred Gell, Stefan Helmreich, semiotic anthropology, materiality, agency theory"
+
+      - name: Beyond the lab
+        icon: fa-solid fa-sailboat
+        keywords: "Freediving (Key Biscayne), competitive rowing (Miami Rowing Club), bull riding, cooking, poetry, options trading"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: NVIDIA DLI — Deep Learning Fundamentals
+        date: 2025-01-01
+        issuer: NVIDIA Deep Learning Institute
+        icon: fa-solid fa-certificate
+        summary: In progress.
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Cornell Tech — ML Foundations
+        date: 2025-01-01
+        issuer: Cornell Tech
+        icon: fa-solid fa-certificate
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: AI Fundamentals
+        date: 2024-01-01
+        issuer: University of Florida
+        icon: fa-solid fa-certificate
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Geospatial Analysis
+        date: 2024-01-01
+        issuer: University of Florida
+        icon: fa-solid fa-certificate
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Publications:
+      - title: "ShortKit-ML: A Unifying Ontology for Shortcut Detection in Machine Learning"
+        authors:
+          - Sebastian Cajas
+          - Raúl Rojas
+          - Leo Anthony Celi
+        publisher: IEEE Access (in review)
+        releaseDate: 2026
+        summary: Bridges anthropological and ML definitions of "shortcut." Framework spans 20+ detection methods benchmarked on CheXpert, MIMIC-CXR, and CelebA. Raúl contributed the unifying ontology bridging bioevolutionary and ML interpretations.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: "SAKSHI: A Community-Operated Accountability Framework for Health AI"
+        authors:
+          - MIT Critical Data Consortium
+        publisher: Manuscript in preparation
+        releaseDate: 2026
+        summary: Co-authored with collaborators across MIT, Johns Hopkins, McGill, Makerere, UBC, and UT Austin.
+
+      - title: "Hallucinations Are the Least of Our Concerns"
+        authors:
+          - MIT Critical Data and collaborators
+        publisher: Manuscript in preparation
+        releaseDate: 2026
+        summary: Argues that situated knowledge — not reference-checking — is the real prerequisite for responsible LLM use in health.
+
+      - title: "The Oracle in Your Pocket"
+        authors:
+          - MIT Critical Data and collaborators
+        publisher: Manuscript in preparation
+        releaseDate: 2026
+        summary: Examines how always-available LLMs amplify Dunning-Kruger and erode elaborative reasoning.
+
+      - title: "AGORA: A Fully Agentic Simulation of Academic Publishing"
+        authors:
+          - MIT Critical Data and collaborators
+        publisher: Work in progress
+        releaseDate: 2026
+        summary: Studies prestige bias, gaming, and herding among AI agents in a simulated academic-publishing system.
+
+    Beyond:
+      - name: Fieldwork
+        icon: fa-solid fa-trowel
+        reference: "Excavated pre-Columbian child sacrifices at Pampa La Cruz, Peru, under Dr. Gabriel Prieto (UF, Yale alumnus)."
+
+      - name: Athletics
+        icon: fa-solid fa-water
+        reference: "Rowed for the Miami Rowing Club (world-level club) in high school. Freedive actively off Key Biscayne. Ran a half marathon. Rode a bull twice in one night."
+
+      - name: Markets
+        icon: fa-solid fa-chart-line
+        reference: "Trade SLV options on a self-built thesis covering COMEX inventory, Shanghai premiums, and Chinese export restrictions — Astra was built partly to execute on it."

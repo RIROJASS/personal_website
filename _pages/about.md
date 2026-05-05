@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Building at the intersection of brains, cultures, and machines.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Florida</p>
+    <p>MIT Critical Data — Researcher</p>
+    <p>Break Through Tech AI Fellow</p>
+    <p>Gainesville · Key Biscayne, FL</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +28,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a junior at the **University of Florida** double-majoring in **Computer Science** and **Anthropology** *(B.S./B.A., expected May 2027)*. I work as an AI researcher with **[MIT Critical Data](https://criticaldata.mit.edu/)** under [Dr. Leo Anthony Celi](https://imes.mit.edu/people/faculty/celi-leo/), I hold a **[Break Through Tech AI Fellowship](https://breakthroughtech.org/programs/the-ai-program/)** through MIT × Cornell Tech, and I do BCI research with [Dr. Marvin Andujar's lab](https://andujarbcilab.org/) at UF.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I think of myself as a **boundary operator** — someone who builds culturally intelligent systems where brains, cultures, and machines meet. My intellectual scaffolding draws on Eduardo Kohn's semiotic anthropology, Daniel Miller's materiality, Alfred Gell's agency theory, and Stefan Helmreich's biocapital work. The thesis I keep coming back to: pattern recognition is one cognitive process applied across substrates — faces, markets, neural signals — and it's worth formalizing. I call my own attempt at that formalization **Lingua Ignota**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In practice, that takes a few shapes:
+
+- **AI shortcut detection** — I'm a co-author on **ShortKit-ML** *(in review at IEEE Access)*, where I contributed the unifying ontology bridging anthropological and ML definitions of "shortcut." Co-authored with [Sebastian Cajas](https://github.com/sebascajas) and Dr. Leo Celi. Five active manuscripts across the consortium.
+- **Neurotechnology** — BCI control of aerial drones with real-time EEG signal processing in the Andujar lab.
+- **Agentic systems** — *Astra*, an autonomous AI agent on a Mixture-of-Experts architecture; the **Temporal-Decay Graph**, a data structure for real-time BCI/EEG; *Deep Focus Trainer*, a C-based neurofeedback tool for the Muse 2.
+- **Industry** — trust & reliability protocols for LLMs in defense at **Northrop Grumman**; Socratic AI tutoring at the **UF College of Medicine**; multimodal AI infrastructure at the **Florida Museum of Natural History**.
+
+Outside the lab: freediving off Key Biscayne, where I grew up. Competitive rowing (Miami Rowing Club). Cooking, poetry, options trading. Excavated pre-Columbian child sacrifices at Pampa La Cruz, Peru. Rode a bull twice in one night. Have a girlfriend and a dog.
+
+The long arc is **founder-CEO of multiple companies, with neurotechnology as the home base** — and I'm exploring PhD programs at MIT (Media Lab, CSAIL, HST) as a possible path. If you're working on anything at the seam of AI, neurotechnology, or the anthropology of intelligent systems, [reach out](mailto:raul.rojas@ufl.edu).
