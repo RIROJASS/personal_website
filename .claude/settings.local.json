@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(docker info *)",
+      "Read(//c/Program Files/Docker/Docker/resources/bin/**)",
+      "Bash(ruby --version)",
+      "Bash(choco --version)",
+      "Bash(wsl --version)",
+      "WebFetch(domain:rirojass.github.io)",
+      "Bash(git merge *)",
+      "Bash(git add *)",
+      "Bash(git restore *)",
+      "Bash(mkdir -p /c/git/rirojass.github.io)",
+      "Read(//c/git//**)",
+      "Bash(git commit -m ' *)",
+      "Bash(git fetch *)",
+      "Bash(git checkout *)",
+      "Bash(git pull *)",
+      "Bash(git push *)"
+    ]
+  }
+}
