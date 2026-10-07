@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ShortKit-ML submitted to IEEE Access
-date: 2025-12-10 12:00:00-0500
+date: 2026-01-28 12:00:00-0500
 inline: false
 related_posts: false
 ---
