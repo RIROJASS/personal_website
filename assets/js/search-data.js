@@ -92,18 +92,15 @@ ninja.data = [{
           section: "News",},{id: "news-wrapped-a-year-at-the-florida-museum-of-natural-history-as-multimodal-ai-amp-amp-cv-intern-siglip-artifact-classifier-at-87-accuracy-retrieval-40-faster-project-writeup",
           title: 'Wrapped a year at the Florida Museum of Natural History as Multimodal AI...',
           description: "",
+          section: "News",},{id: "news-attended-ai-as-a-catalyst-at-mit-227-people-161-institutions-22-countries-three-workshops-the-conversations-from-this-convening-compounded",
+          title: 'Attended AI as a Catalyst at MIT — 227 people, 161 institutions, 22+...',
+          description: "",
           section: "News",},{id: "news-shortkit-ml-submitted-to-ieee-access",
           title: 'ShortKit-ML submitted to IEEE Access',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/personal_website/news/announcement_3/";
-            },},{id: "news-attended-ai-as-a-catalyst-at-mit-227-people-161-institutions-22-countries-three-workshops-the-conversations-from-this-convening-compounded",
-          title: 'Attended AI as a Catalyst at MIT — 227 people, 161 institutions, 22+...',
-          description: "",
-          section: "News",},{id: "news-launching-this-site-as-the-home-for-my-research-builds-and-writing",
-          title: 'Launching this site as the home for my research, builds, and writing.',
-          description: "",
-          section: "News",},{id: "projects-ai-enhanced-remote-sensing-llanos-de-moxos",
+            },},{id: "projects-ai-enhanced-remote-sensing-llanos-de-moxos",
           title: 'AI-Enhanced Remote Sensing — Llanos de Moxos',
           description: "YOLOv8 object detection on Sentinel + Landsat imagery for pre-Columbian raised-field agriculture in Beni, Bolivia.",
           section: "Projects",handler: () => {
