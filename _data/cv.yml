@@ -28,7 +28,7 @@ cv:
         start_date: 2023
         end_date: 2027
         score: ""
-        courses: "AI Fundamentals, Machine Learning, Data Structures & Algorithms, Engineering Statistics, Computer Architecture, Linear Algebra, GeoAI"
+        courses: "AI Fundamentals, Machine Learning, Data Structures & Algorithms, Engineering Statistics, Computer Architecture, Linear Algebra, GeoAI, Digital Image Processing & Remote Sensing, Language and Computers, Ethics Data & Tech, Cultural Anthropology, Programming Fundamentals 1 & 2, Applications of Discrete Structures, Digital Logic & Computer Systems"
         highlights:
           - "Two majors, one lens — building intelligent systems that take cultural context seriously."
 
@@ -108,11 +108,14 @@ cv:
         location: Gainesville, FL
         start_date: 2024-08
         end_date: 2025-05
-        summary: Mapped archaeological sites from satellite imagery with ML; redesigned the museum's research-data search and classification pipelines.
+        summary: Two parallel tracks — a SigLIP-based artifact classifier for the museum's own collection, and a YOLOv8 remote-sensing pipeline over Sentinel + Landsat imagery to find pre-Columbian raised fields in the Llanos de Moxos (Beni, Bolivia).
         highlights:
+          - "Multi-Model AI Artifact Search — SigLIP backbone + CNN classifier trained on 3,157 artifact images across cultures; ~87% test accuracy; shipped behind a Flask UI for field researchers."
+          - "AI-Enhanced Remote Sensing (Llanos de Moxos) — YOLOv8 on multi-spectral Sentinel/Landsat with KITTI↔YOLO pipelines, UFS supercomputer grid search, and orientation analysis distinguishing ancient (celestial) from modern (infrastructure) alignments."
           - Improved retrieval speed by 40× and feature detection by 8× through redesigned search and classification systems.
           - Deployed scalable data pipelines processing 10,000+ records; UX dashboards boosted cross-departmental engagement 200%.
-          - Co-authored research paper and presented at the 2025 Florida Undergraduate Research Conference.
+          - Co-authored research paper and co-presented at the 2025 Florida Undergraduate Research Conference with Olivia Zhang.
+          - Built a 3D UMAP interactive visualization of the embedding space to let curators browse the collection by latent similarity.
 
       - company: Hackathon — Art Beyond Sight
         position: Developer
@@ -150,21 +153,62 @@ cv:
         end_date: 2025
         summary: Mentored teams as a Data Scientist. The relationships formed led directly to MIT Critical Data collaborations, the Mayo Clinic Datathon, and an invitation to the Panama Datathon.
 
+      - company: ColorStack
+        position: Peer Mentor
+        location: Remote
+        start_date: 2024
+        end_date: present
+        summary: Non-profit focused on increasing the number of Black and Latinx computer-science graduates. Peer-mentoring underrepresented students, running technical workshops, and connecting cohort members with industry and academic contacts.
+
+      - company: IGNITE (UF)
+        position: Member
+        location: Gainesville, FL
+        start_date: 2024
+        end_date: present
+        summary: Innovation and entrepreneurship club at UF — venture competitions, pitch workshops, and introductions to founders and investors in the Gainesville technology ecosystem.
+
+    Awards:
+      - name: UF Space Initiative 2024 Innovation Challenge — Winner
+        date: 2024-11-01
+        issuer: University of Florida Space Initiative
+        icon: fa-solid fa-trophy
+        summary: One of five national winners. Team featured in the Space Force Association's official pre-Spacepower magazine as "a dynamic group who embodied the power of cross-disciplinary collaboration." Attended Spacepower 2024 in Orlando as part of the award.
+
     Skills:
       - name: Programming
         level: Advanced
         icon: fa-solid fa-code
-        keywords: "Python, C, C++, R, MATLAB"
+        keywords: "Python, C, C++, R, MATLAB, SQL, HTML, CSS, JavaScript"
 
       - name: ML / Data
         level: Advanced
         icon: fa-solid fa-brain
-        keywords: "TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, PySpark, SciPy, Jupyter"
+        keywords: "TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, PySpark, SciPy, Jupyter, YOLOv8, SigLIP, Keras, OpenCV, Flask"
+
+      - name: Data Visualization
+        level: Advanced
+        icon: fa-solid fa-chart-bar
+        keywords: "Matplotlib, ggplot2, D3.js, UMAP, interactive 3D viz"
+
+      - name: Geospatial & Remote Sensing
+        level: Advanced
+        icon: fa-solid fa-earth-americas
+        keywords: "Google Earth Engine, ArcGIS, Sentinel, Landsat, GIS analysis, coordinate systems, geodatabases, drone mapping"
+
+      - name: 3D & Photogrammetry
+        level: Intermediate
+        icon: fa-solid fa-cube
+        keywords: "Agisoft Metascape, AutoCAD, SolidWorks, drone orthophotography, 3D site modeling"
 
       - name: Neurotechnology
         level: Intermediate
         icon: fa-solid fa-wave-square
         keywords: "EEG signal processing, BCI systems, Muse 2 integration, neural data pipelines"
+
+      - name: Anthropological Methods
+        level: Intermediate
+        icon: fa-solid fa-people-arrows
+        keywords: "Ethnographic research design, qualitative data analysis, archaeological survey & excavation, artifact documentation, osteological study"
 
       - name: Research Tools
         level: Advanced
@@ -220,6 +264,41 @@ cv:
         issuer: University of Florida
         icon: fa-solid fa-certificate
 
+      - name: GIS Basics
+        date: 2024-01-01
+        issuer: Esri
+        icon: fa-solid fa-certificate
+        url: assets/pdf/certs/gis_basics.pdf
+
+      - name: Map Design Fundamentals
+        date: 2024-01-01
+        issuer: Esri
+        icon: fa-solid fa-certificate
+        url: assets/pdf/certs/map_design_fundamentals.pdf
+
+      - name: Introduction to Coordinate Systems
+        date: 2024-01-01
+        issuer: Esri
+        icon: fa-solid fa-certificate
+        url: assets/pdf/certs/coordinate_systems.pdf
+
+      - name: Building Models for GIS Analysis
+        date: 2024-01-01
+        issuer: Esri
+        icon: fa-solid fa-certificate
+        url: assets/pdf/certs/gis_models.pdf
+
+      - name: Getting Started with Geodatabase
+        date: 2024-01-01
+        issuer: Esri
+        icon: fa-solid fa-certificate
+        url: assets/pdf/certs/geodatabase.pdf
+
+      - name: Intro to Programming
+        date: 2024-01-01
+        issuer: Kaggle
+        icon: fa-solid fa-certificate
+
     Publications:
       - title: "ShortKit-ML: A Unifying Ontology for Shortcut Detection in Machine Learning"
         authors:
@@ -261,7 +340,7 @@ cv:
     Beyond:
       - name: Fieldwork
         icon: fa-solid fa-trowel
-        reference: "Excavated pre-Columbian child sacrifices at Pampa La Cruz, Peru, under Dr. Gabriel Prieto (UF, Yale alumnus)."
+        reference: "Four-week UF archaeological field program at Huanchaco, Peru. Excavated a Chimú child-sacrifice site (~800–1500 CE) at Pampa La Cruz under Dr. Gabriel Prieto. Captured drone orthophotography and built 3D site models in Agisoft Metascape + AutoCAD; studied osteological remains under Dr. John Verano."
 
       - name: Athletics
         icon: fa-solid fa-water
