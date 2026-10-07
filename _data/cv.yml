@@ -297,42 +297,23 @@ cv:
         icon: fa-solid fa-certificate
 
     Publications:
-      - title: "ShortKit-ML: A Unifying Ontology for Shortcut Detection in Machine Learning"
+      - title: "Shortkit-ML: A Unified Multi-Perspective Framework for Detecting Shortcut Learning in Medical Imaging Embeddings"
         authors:
           - Sebastian Cajas
-          - Raúl Rojas
+          - Aldo Marzullo
+          - Sahil Kapadia
+          - Filipe Santos
+          - Felipe Ocampo Osorio
+          - Qingpeng Kong
+          - Alessandro Quarta
+          - Po-Chih Kuo
+          - Milit Patel
+          - Raúl Ignacio Rojas Sillery
           - Leo Anthony Celi
-        publisher: IEEE Access (in review)
+        publisher: IEEE Access (in review); preprint on medRxiv
         releaseDate: 2026
-        summary: Bridges anthropological and ML definitions of "shortcut." Framework spans 20+ detection methods benchmarked on CheXpert, MIMIC-CXR, and CelebA. Raúl contributed the unifying ontology bridging bioevolutionary and ML interpretations.
-
-      - title: "SAKSHI: A Community-Operated Accountability Framework for Health AI"
-        authors:
-          - MIT Critical Data Consortium
-        publisher: Manuscript in preparation
-        releaseDate: 2026
-        summary: Co-authored with collaborators across MIT, Johns Hopkins, McGill, Makerere, UBC, and UT Austin.
-
-      - title: "Hallucinations Are the Least of Our Concerns"
-        authors:
-          - MIT Critical Data and collaborators
-        publisher: Manuscript in preparation
-        releaseDate: 2026
-        summary: Argues that situated knowledge — not reference-checking — is the real prerequisite for responsible LLM use in health.
-
-      - title: "The Oracle in Your Pocket"
-        authors:
-          - MIT Critical Data and collaborators
-        publisher: Manuscript in preparation
-        releaseDate: 2026
-        summary: Examines how always-available LLMs amplify Dunning-Kruger and erode elaborative reasoning.
-
-      - title: "AGORA: A Fully Agentic Simulation of Academic Publishing"
-        authors:
-          - MIT Critical Data and collaborators
-        publisher: Work in progress
-        releaseDate: 2026
-        summary: Studies prestige bias, gaming, and herding among AI agents in a simulated academic-publishing system.
+        url: https://www.medrxiv.org/content/10.64898/2026.04.29.26352053v1
+        summary: Unified framework to detect, benchmark, and mitigate shortcut learning in ML models — across medical imaging and beyond. 20+ detection methods plus 6 mitigation techniques under one API, benchmarked on CheXpert, MIMIC-CXR, and CelebA. Released on PyPI under MIT License. My contribution was the unifying ontology bridging anthropological and ML definitions of "shortcut."
 
     Beyond:
       - name: Fieldwork

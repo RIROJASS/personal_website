@@ -8,7 +8,7 @@ category: research
 related_publications: false
 ---
 
-A machine-learning system for classifying archaeological artifacts from photographic data, built during my year at the **[Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/)** (Aug 2024 – May 2025). The system marries computer vision with archaeological expertise so that field researchers can identify pottery types, tool materials, and approximate age from a photo.
+A machine-learning system for classifying archaeological artifacts from photographic data, built during my year at the **[Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/)** (Aug 2024 – May 2025) under the mentorship of **[Dr. Nick Gauthier](https://github.com/nick-gauthier)** *(Assistant Curator, AI for Bio/Cultural Diversity)*. The system marries computer vision with archaeological expertise so that field researchers can identify pottery types, tool materials, and approximate age from a photo.
 
 ## Scope
 

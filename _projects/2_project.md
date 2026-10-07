@@ -10,7 +10,7 @@ related_publications: true
 
 **ShortKit-ML** *(formerly ShortcutDetect)* is a **unified multi-perspective framework** for detecting — and mitigating — **shortcut learning** in machine-learning models, with a primary focus on **medical imaging embeddings**. It bridges two literatures that almost never speak to each other — *bioevolutionary* and *machine-learning* readings of "shortcut learning" — under a single ontology.
 
-Co-authored with **[Sebastian Cajas](https://sebasmos.github.io/)** *(first author)* and **[Dr. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo)** *(last author, MIT Critical Data)*. **In review at IEEE Access.**
+An **eleven-author** paper led by **[Sebastian Cajas](https://sebasmos.github.io/)** *(first author)* with **[Dr. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo)** as PI *(last author, MIT Critical Data)*. Full author list: Sebastian Cajas, Aldo Marzullo, Sahil Kapadia, Filipe Santos, Felipe Ocampo Osorio, Qingpeng Kong, Alessandro Quarta, Po-Chih Kuo, Milit Patel, Raúl Ignacio Rojas Sillery, Leo Anthony Celi. **In review at IEEE Access; preprint on medRxiv.**
 
 <a href="https://criticaldata.github.io/ShortKit-ML/" class="btn btn-primary" target="_blank">Project page →</a>
 <a href="https://github.com/criticaldata/ShortKit-ML" class="btn btn-primary" target="_blank">Code on GitHub →</a>

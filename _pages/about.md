@@ -31,7 +31,7 @@ I'm a senior at the **University of Florida** double-majoring in **Computer Scie
 
 What that looks like in practice:
 
-- **AI shortcut detection** — co-author on **[ShortKit-ML](https://criticaldata.github.io/ShortKit-ML/)** *(in review at IEEE Access)* with [Sebastian Cajas](https://sebasmos.github.io/) *(first author)* and Dr. Leo Celi *(last author)*. My contribution was the unifying ontology bridging anthropological and ML definitions of "shortcut." [[preprint]](https://www.medrxiv.org/content/10.64898/2026.04.29.26352053v1) · [[code]](https://github.com/criticaldata/ShortKit-ML)
+- **AI shortcut detection** — co-author on **[ShortKit-ML](https://criticaldata.github.io/ShortKit-ML/)** *(in review at IEEE Access; preprint on medRxiv)* — an eleven-author paper led by [Sebastian Cajas](https://sebasmos.github.io/) with [Dr. Leo Celi](https://imes.mit.edu/people/celi-leo) as PI. My contribution was the unifying ontology bridging anthropological and ML definitions of "shortcut." [[preprint]](https://www.medrxiv.org/content/10.64898/2026.04.29.26352053v1) · [[code]](https://github.com/criticaldata/ShortKit-ML)
 - **Agentic systems** — *Astra*, an autonomous AI agent on a Mixture-of-Experts architecture (Scout / Analyst / Architect tiers), built on OpenClaw.
 - **BCI / neurotech builds** — the **Temporal-Decay Graph**, a data structure for real-time BCI/EEG with exponential edge decay and lazy pruning; **Deep Focus Trainer**, a C-based neurofeedback tool for the Muse 2.
 - **Industry** — trust & reliability protocols for LLMs in defense at **Northrop Grumman**; Socratic AI tutoring at the **UF College of Medicine**; multimodal AI infrastructure (SigLIP classifier + YOLOv8 remote sensing) at the **Florida Museum of Natural History**.
