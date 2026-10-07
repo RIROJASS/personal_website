@@ -49,13 +49,10 @@ cv:
         location: Remote / MIT
         start_date: 2025-10
         end_date: present
-        summary: Co-authoring five active manuscripts across the consortium. Earned the collaboration through cold outreach.
+        summary: A grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering & Science. Joined October 2025 through cold outreach to Dr. Celi.
         highlights:
-          - "ShortKit-ML (IEEE Access, in review) — contributed the unifying ontology bridging anthropological and ML definitions of \"shortcut\"; framework benchmarked on CheXpert, MIMIC-CXR, and CelebA."
-          - "SAKSHI — co-authored a community-operated accountability framework for health AI with collaborators across MIT, Johns Hopkins, McGill, Makerere, UBC, UT Austin."
-          - "Hallucinations Are the Least of Our Concerns — co-authored argument that situated knowledge, not reference-checking, is the prerequisite for responsible LLM use in health."
-          - "The Oracle in Your Pocket — co-authored paper on how LLMs amplify Dunning-Kruger and erode elaborative reasoning."
-          - "AGORA — co-developing a fully agentic simulation of academic publishing to study prestige bias, gaming, and herding among AI agents."
+          - "ShortKit-ML (in review at IEEE Access, preprint on medRxiv) — contributed the unifying ontology bridging anthropological and ML definitions of \"shortcut.\" Co-authored with Sebastian Cajas (first author) and Dr. Leo Celi (last author); framework spans 20+ detection methods benchmarked on CheXpert, MIMIC-CXR, and CelebA."
+          - "Contributing to broader consortium work across clinical ML interpretability, situated knowledge in healthcare LLMs, and agentic simulation of academic publishing."
 
       - company: UF BCI Lab — Dr. Marvin Andujar
         position: BCI / Neurotechnology Researcher

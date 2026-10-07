@@ -42,6 +42,7 @@ Applied machine-learning object detection to **satellite imagery** to find pre-C
 
 Beyond this region, the methodology produces visual analyses that double as **conservation references** and **geo-temporal landscape baselines** — useful anywhere non-invasive prospection matters.
 
-**Co-presented** the related work with [Olivia Zhang](https://www.linkedin.com/in/via-zhang/) at the **[2025 Florida Undergraduate Research Conference](https://www.flbog.edu/furc/)** under the title *Finding Lost Archaeological Sites with AI: Object Detection with Remote Sensing*.
+**Co-presented** the related work with [Olivia Zhang](https://www.linkedin.com/in/via-zhang/) at the **[2025 Florida Undergraduate Research Conference](https://www.usf.edu/research-innovation/undergraduate-research/furc.aspx)** under the title *Finding Lost Archaeological Sites with AI: Object Detection with Remote Sensing*.
 
 <a href="{{ '/assets/pdf/2025_FURC_conference_poster.pdf' | relative_url }}" class="btn btn-primary" target="_blank">FURC 2025 poster (PDF) →</a>
+<a href="https://github.com/RIROJASS/Remote-Sensing-Object-Detection-with-YOLOv8" class="btn btn-primary" target="_blank">Code on GitHub →</a>

@@ -1,16 +1,21 @@
 ---
 layout: page
 title: ShortKit-ML
-description: Unifying ontology for shortcut detection in machine learning. In review at IEEE Access.
+description: A unified multi-perspective framework for detecting and mitigating shortcut learning in medical imaging embeddings — and beyond. Preprint on medRxiv, in review at IEEE Access.
 img: assets/img/3.jpg
 importance: 2
 category: research
 related_publications: true
 ---
 
-**ShortKit-ML** *(formerly ShortcutDetect)* is a unifying ontological framework for **shortcut detection** in machine-learning models. It bridges two literatures that almost never speak to each other — *bioevolutionary* and *machine-learning* readings of "shortcut learning" — under a single ontology.
+**ShortKit-ML** *(formerly ShortcutDetect)* is a **unified multi-perspective framework** for detecting — and mitigating — **shortcut learning** in machine-learning models, with a primary focus on **medical imaging embeddings**. It bridges two literatures that almost never speak to each other — *bioevolutionary* and *machine-learning* readings of "shortcut learning" — under a single ontology.
 
-Co-authored with **[Sebastian Cajas](https://github.com/sebascajas)** *(first author)* and **Dr. Leo Anthony Celi** *(last author, MIT Critical Data)*. **In review at IEEE Access.**
+Co-authored with **[Sebastian Cajas](https://sebasmos.github.io/)** *(first author)* and **[Dr. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo)** *(last author, MIT Critical Data)*. **In review at IEEE Access.**
+
+<a href="https://criticaldata.github.io/ShortKit-ML/" class="btn btn-primary" target="_blank">Project page →</a>
+<a href="https://github.com/criticaldata/ShortKit-ML" class="btn btn-primary" target="_blank">Code on GitHub →</a>
+<a href="https://www.medrxiv.org/content/10.64898/2026.04.29.26352053v1" class="btn btn-primary" target="_blank">Preprint (medRxiv) →</a>
+<a href="https://criticaldata.github.io/ShortKit-ML/methods/overview/" class="btn btn-primary" target="_blank">Methods overview →</a>
 
 ## What I contributed
 
@@ -20,8 +25,9 @@ Co-authored with **[Sebastian Cajas](https://github.com/sebascajas)** *(first au
 
 ## Scope
 
-- **20+ shortcut-detection methods** unified under the framework.
-- Benchmarked on **CheXpert, MIMIC-CXR, and CelebA**.
+- **20+ detection methods** plus **6 mitigation techniques** under one API.
+- Supports **multiple sensitive attributes simultaneously**.
+- Benchmarked on **CheXpert, MIMIC-CXR, and CelebA**; released on **PyPI** under **MIT License**.
 - Designed as an **AI audit methodology** that holds up across both qualitative and quantitative approaches.
 
 ## Status

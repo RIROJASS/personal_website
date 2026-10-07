@@ -18,4 +18,4 @@ Designed and benchmarked on the **BCI Competition IV** dataset for COP3530 (UF D
 
 ## Why this came out of the BCI work
 
-Working in [Dr. Marvin Andujar's BCI lab](https://andujarbcilab.org/) at UF, the bottleneck for real-time drone control isn't the model — it's the data structure underneath the streaming EEG. TDG is one move toward a structure that fits the signal instead of the textbook.
+Working in **[Dr. Marvin Andujar's](https://www.marvinandujar.com/)** BCI lab at UF, the bottleneck for real-time drone control isn't the model — it's the data structure underneath the streaming EEG. TDG is one move toward a structure that fits the signal instead of the textbook.
