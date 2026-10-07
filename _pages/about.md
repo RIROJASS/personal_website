@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>University of Florida</p>
     <p>MIT Critical Data — Researcher</p>
-    <p>Gainesville · Key Biscayne, FL</p>
+    <p>Miami</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a senior at the **University of Florida** double-majoring in **Computer Science** and **Anthropology** *(B.S./B.A., expected May 2027)*. I work as an **AI Researcher** at **[MIT Critical Data](https://criticaldata.mit.edu/)** — a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering & Science — under **[Dr. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo)**. I previously did BCI research in **[Dr. Marvin Andujar's](https://www.marvinandujar.com/)** lab at UF (paused since January 2026) and attended the **[Break Through Tech AI Fellowship](https://breakthroughtech.org/programs/the-ai-program/)** (MIT × Cornell Tech) in 2025.
+I'm a senior at the **University of Florida** double-majoring in **Computer Science** and **Anthropology** *(B.S./B.A., expected May 2027)*. I work as an **AI Researcher** at **[MIT Critical Data](https://criticaldata.mit.edu/)** — a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering & Science — under **[Dr. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo)**. I previously did BCI research in **[Dr. Marvin Andujar's](https://www.marvinandujar.com/)** lab at UF and attended the **[Break Through Tech AI Fellowship](https://breakthroughtech.org/programs/the-ai-program/)** (MIT × Cornell Tech) in 2025.
 
 What that looks like in practice:
 
