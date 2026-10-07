@@ -178,6 +178,22 @@ layout: default
               {% elsif section_title == 'References' %}
                 {% assign entries = section_entries %}
                 {% include cv/references.liquid %}
+              {% elsif section_title == 'Research' or section_title == 'Leadership' %}
+                {% comment %} Render Research and Leadership like Experience {% endcomment %}
+                {% assign entries = section_entries %}
+                {% include cv/experience.liquid %}
+              {% elsif section_title == 'Beyond' or section_title == 'Beyond the lab' %}
+                <ul class="card-text font-weight-light list-group list-group-flush">
+                  {% for entry in section_entries %}
+                    <li class="list-group-item">
+                      <strong>
+                        {% if entry.icon %}<i class="{{ entry.icon }} mr-1"></i>{% endif %}
+                        {{ entry.name }}
+                      </strong>
+                      — {{ entry.reference | markdownify | remove: '<p>' | remove: '</p>' }}
+                    </li>
+                  {% endfor %}
+                </ul>
               {% else %}
                 <!-- Generic section -->
                 {% for entry in section_entries %}

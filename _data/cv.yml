@@ -5,7 +5,7 @@ cv:
   phone: (305) 842-8433
   location: Gainesville · Key Biscayne, FL
   image: ""
-  summary: Junior at the University of Florida double-majoring in Computer Science and Anthropology. AI Researcher with MIT Critical Data under Dr. Leo Anthony Celi, Break Through Tech AI Fellow (MIT × Cornell Tech), and BCI researcher in the Andujar Lab at UF. Building at the intersection of brains, cultures, and machines.
+  summary: Senior at the University of Florida double-majoring in Computer Science and Anthropology. AI Researcher at MIT Critical Data — a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering & Science — under Dr. Leo Anthony Celi.
 
   social_networks:
     - network: GitHub
@@ -58,8 +58,8 @@ cv:
         position: BCI / Neurotechnology Researcher
         location: Gainesville, FL
         start_date: 2024
-        end_date: present
-        summary: Ongoing research on brain-computer interface control of aerial drones using real-time EEG signal processing.
+        end_date: 2026-01
+        summary: Research on brain-computer-interface control of aerial drones using real-time EEG signal processing. Paused in January 2026.
 
     Experience:
       - company: MIT × Cornell Tech — Swytch AI Studio
@@ -169,7 +169,7 @@ cv:
         date: 2024-11-01
         issuer: University of Florida Space Initiative
         icon: fa-solid fa-trophy
-        summary: One of five national winners. Team featured in the Space Force Association's official pre-Spacepower magazine as "a dynamic group who embodied the power of cross-disciplinary collaboration." Attended Spacepower 2024 in Orlando as part of the award.
+        summary: One of five winners. Team featured in the Space Force Association's official pre-Spacepower magazine as "a dynamic group who embodied the power of cross-disciplinary collaboration." Attended Spacepower 2024 in Orlando as part of the award.
 
     Skills:
       - name: Programming
@@ -230,10 +230,6 @@ cv:
       - name: ML Interpretability
         icon: fa-solid fa-magnifying-glass
         keywords: "Shortcut detection, fairness, situated knowledge, evaluation"
-
-      - name: Anthropology of Intelligent Systems
-        icon: fa-solid fa-people-group
-        keywords: "Eduardo Kohn, Daniel Miller, Alfred Gell, Stefan Helmreich, semiotic anthropology, materiality, agency theory"
 
       - name: Beyond the lab
         icon: fa-solid fa-sailboat
@@ -322,7 +318,7 @@ cv:
 
       - name: Athletics
         icon: fa-solid fa-water
-        reference: "Rowed for the Miami Rowing Club (world-level club) in high school. Freedive actively off Key Biscayne. Ran a half marathon. Rode a bull twice in one night."
+        reference: "Rowed for the Miami Rowing Club (world-level club) in high school. Freedive actively off Key Biscayne. Ran a half marathon. Rode two bulls in one night."
 
       - name: Markets
         icon: fa-solid fa-chart-line

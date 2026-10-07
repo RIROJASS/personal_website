@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>University of Florida</p>
     <p>MIT Critical Data — Researcher</p>
-    <p>Miami</p>
+    <p>Gainesville · Miami</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -36,6 +36,6 @@ What that looks like in practice:
 - **BCI / neurotech builds** — the **Temporal-Decay Graph**, a data structure for real-time BCI/EEG with exponential edge decay and lazy pruning; **Deep Focus Trainer**, a C-based neurofeedback tool for the Muse 2.
 - **Industry** — trust & reliability protocols for LLMs in defense at **Northrop Grumman**; Socratic AI tutoring at the **UF College of Medicine**; multimodal AI infrastructure (SigLIP classifier + YOLOv8 remote sensing) at the **Florida Museum of Natural History**.
 
-Outside the lab: freediving off Key Biscayne, where I grew up. Competitive rowing (Miami Rowing Club). Cooking, poetry, options trading. Excavated pre-Columbian child sacrifices at Pampa La Cruz, Peru. Rode two bulls in one night.
+Outside the lab: freediving off Key Biscayne. Competitive rowing (Miami Rowing Club). Cooking, poetry, options trading. Excavated pre-Columbian child sacrifices at Pampa La Cruz, Peru. Rode two bulls in one night.
 
 If any of this overlaps with what you're working on, [reach out](mailto:raul.rojas@ufl.edu).
