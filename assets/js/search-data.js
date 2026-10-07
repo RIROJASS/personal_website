@@ -132,7 +132,7 @@ ninja.data = [{
               window.location.href = "/personal_website/projects/1_project/";
             },},{id: "projects-shortkit-ml",
           title: 'ShortKit-ML',
-          description: "Unifying ontology for shortcut detection in machine learning. In review at IEEE Access.",
+          description: "A unified multi-perspective framework for detecting and mitigating shortcut learning in medical imaging embeddings — and beyond. Preprint on medRxiv, in review at IEEE Access.",
           section: "Projects",handler: () => {
               window.location.href = "/personal_website/projects/2_project/";
             },},{id: "projects-temporal-decay-graph",
