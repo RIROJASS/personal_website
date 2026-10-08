@@ -8,7 +8,7 @@ categories: convenings
 featured: false
 ---
 
-Four days at the **SHPE National Convention 2024**. The database side of the convention was my own [project](/projects/13_project/); this post is just the attendee's notebook.
+Four days at the **SHPE National Convention 2024**. The database side of the convention was my own [project]({{ '/projects/13_project/' | relative_url }}); this post is just the attendee's notebook.
 
 ## Workshops that stuck
 
@@ -20,7 +20,7 @@ Four days at the **SHPE National Convention 2024**. The database side of the con
 
 ## Who I met
 
-Representatives from **Google, Apple, Lockheed Martin, Northrop Grumman**, and a long list of smaller firms. The Northrop line turned into [the Mission Systems internship](/cv/) the following summer, which is probably the single highest-leverage connection I've made at any convention.
+Representatives from **Google, Apple, Lockheed Martin, Northrop Grumman**, and a long list of smaller firms. The Northrop line turned into [the Mission Systems internship]({{ '/cv/' | relative_url }}) the following summer, which is probably the single highest-leverage connection I've made at any convention.
 
 ## What I took back
 

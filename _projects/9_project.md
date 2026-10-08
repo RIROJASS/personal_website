@@ -28,4 +28,4 @@ A machine-learning system for classifying archaeological artifacts from photogra
 
 ## Why it matters
 
-Museum collections are mostly dark matter — catalogued, boxed, and never looked at again. A retrieval system that groups by *visual-cultural* similarity rather than filename gives curators (and the archaeologists who come after them) a way to see the collection as a landscape instead of a filing cabinet. Co-authored a research paper and presented at the **2025 Florida Undergraduate Research Conference** on the related satellite work ([separate project](/projects/10_project/)).
+Museum collections are mostly dark matter — catalogued, boxed, and never looked at again. A retrieval system that groups by *visual-cultural* similarity rather than filename gives curators (and the archaeologists who come after them) a way to see the collection as a landscape instead of a filing cabinet. Co-authored a research paper and presented at the **2025 Florida Undergraduate Research Conference** on the related satellite work ([separate project]({{ '/projects/10_project/' | relative_url }})).

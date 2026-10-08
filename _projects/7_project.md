@@ -20,4 +20,4 @@ Yelp tells you which bar is good *in general*. Instagram tells you what your fri
 - **Sentiment scoring** — per-venue, per-window, with decay (energy at a bar is a fast-moving signal).
 - **Geolocation + ranking** — a recommendation layer that combines proximity, freshness, and sentiment.
 
-Solo-founded and still in build. The project is also one of the case studies driving my interest in **agentic systems** — many of the architecture lessons feed back into [Astra](/projects/1_project/).
+Solo-founded and still in build. The project is also one of the case studies driving my interest in **agentic systems** — many of the architecture lessons feed back into [Astra]({{ '/projects/1_project/' | relative_url }}).

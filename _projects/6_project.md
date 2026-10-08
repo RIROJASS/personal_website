@@ -16,6 +16,6 @@ It's a personal, evolving framework, not a finished paper. It draws on **Eduardo
 
 ## Why bother
 
-Most AI work treats "pattern" as a technical primitive. Most anthropology treats it as a cultural artifact. They're studying the same thing, badly, in two different rooms. Lingua Ignota is my bet that putting the two readings under one notation pays off — both for ML interpretability (where the [ShortKit-ML](/projects/2_project/) work lives) and for the long-arc neurotech work I want to build companies around.
+Most AI work treats "pattern" as a technical primitive. Most anthropology treats it as a cultural artifact. They're studying the same thing, badly, in two different rooms. Lingua Ignota is my bet that putting the two readings under one notation pays off — both for ML interpretability (where the [ShortKit-ML]({{ '/projects/2_project/' | relative_url }}) work lives) and for the long-arc neurotech work I want to build companies around.
 
 A more public write-up of the framework is on the way. Email me if you want the working draft.

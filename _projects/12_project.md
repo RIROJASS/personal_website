@@ -15,7 +15,7 @@ related_publications: false
 ## The idea
 
 - Researched applications of the **Groff Algorithm** for pattern recognition in satellite imagery.
-- Built a framework for identifying potential archaeological sites via ML + remote sensing — the same instinct that later matured into the [Llanos de Moxos work](/projects/10_project/).
+- Built a framework for identifying potential archaeological sites via ML + remote sensing — the same instinct that later matured into the [Llanos de Moxos work]({{ '/projects/10_project/' | relative_url }}).
 - Investigated NASA patents around sustainability and climate analysis to understand what's dual-use.
 - Explored triangulation capabilities for location-based pattern recognition.
 

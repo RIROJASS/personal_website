@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Wrapped a year at the **[Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/)** as Multimodal AI & CV intern — SigLIP artifact classifier at 87% accuracy, retrieval 40× faster. [Project writeup](/projects/9_project/).
+Wrapped a year at the **[Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/)** as Multimodal AI & CV intern — SigLIP artifact classifier at 87% accuracy, retrieval 40× faster. [Project writeup]({{ '/projects/9_project/' | relative_url }}).

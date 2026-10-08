@@ -17,7 +17,7 @@ Applied machine-learning object detection to **satellite imagery** to find pre-C
 - **Multi-source imagery** — Sentinel-2 and Landsat accessed through ArcGIS; multi-spectral bands at different resolutions let the model pick up subtle terrain signatures invisible in RGB.
 - **YOLOv8** — chosen for throughput over very large geographic areas.
 - **Pipeline** — custom Python and R for normalization, **KITTI ↔ YOLO** format conversion, and batch processing.
-- **Compute** — UFS supercomputer resources for hyperparameter grid search.
+- **Compute** — UF **HiPerGator** supercomputer for hyperparameter grid search.
 
 ## Pattern recognition, specialized for archaeology
 

@@ -51,8 +51,12 @@ cv:
         end_date: present
         summary: A grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering & Science. Joined October 2025 through cold outreach to Dr. Celi.
         highlights:
-          - "ShortKit-ML (in review at IEEE Access, preprint on medRxiv) — contributed the unifying ontology bridging anthropological and ML definitions of \"shortcut.\" Co-authored with Sebastian Cajas (first author) and Dr. Leo Celi (last author); framework spans 20+ detection methods benchmarked on CheXpert, MIMIC-CXR, and CelebA."
-          - "Contributing to broader consortium work across clinical ML interpretability, situated knowledge in healthcare LLMs, and agentic simulation of academic publishing."
+          - "ShortKit-ML (in review at IEEE Access; preprint on medRxiv) — contributed the unifying ontology bridging anthropological and ML definitions of \"shortcut.\" Eleven-author paper led by Sebastian Cajas; framework spans 20+ detection methods benchmarked on CheXpert, MIMIC-CXR, and CelebA."
+          - "Credential Farming in the Age of Generative AI (submitted) — co-author on an argument that academic trust must move from outputs to communities, in response to AI-driven credential gaming."
+          - "SAKSHI (submitted) — community-operated investigative protocol for health-AI accountability in low- and middle-income countries."
+          - "Hallucinations Are the Least of Our Concerns (in preparation) — argues situated knowledge, not reference-checking, is the prerequisite for responsible LLM use in health."
+          - "The Oracle in Your Pocket (in preparation) — examines how LLMs may amplify Dunning–Kruger effects and erode elaborative reasoning."
+          - "AGORA Peer Review (in development) — contributing to the working group on measurement-first architectures for auditable multi-agent peer review."
 
       - company: UF BCI Lab — Dr. Marvin Andujar
         position: BCI / Neurotechnology Researcher
@@ -108,7 +112,7 @@ cv:
         summary: Two parallel tracks — a SigLIP-based artifact classifier for the museum's own collection, and a YOLOv8 remote-sensing pipeline over Sentinel + Landsat imagery to find pre-Columbian raised fields in the Llanos de Moxos (Beni, Bolivia).
         highlights:
           - "Multi-Model AI Artifact Search — SigLIP backbone + CNN classifier trained on 3,157 artifact images across cultures; ~87% test accuracy; shipped behind a Flask UI for field researchers."
-          - "AI-Enhanced Remote Sensing (Llanos de Moxos) — YOLOv8 on multi-spectral Sentinel/Landsat with KITTI↔YOLO pipelines, UFS supercomputer grid search, and orientation analysis distinguishing ancient (celestial) from modern (infrastructure) alignments."
+          - "AI-Enhanced Remote Sensing (Llanos de Moxos) — YOLOv8 on multi-spectral Sentinel/Landsat with KITTI↔YOLO pipelines, HiPerGator grid search, and orientation analysis distinguishing ancient (celestial) from modern (infrastructure) alignments."
           - Improved retrieval speed by 40× and feature detection by 8× through redesigned search and classification systems.
           - Deployed scalable data pipelines processing 10,000+ records; UX dashboards boosted cross-departmental engagement 200%.
           - Co-authored research paper and co-presented at the 2025 Florida Undergraduate Research Conference with Olivia Zhang.
@@ -165,9 +169,9 @@ cv:
         summary: Innovation and entrepreneurship club at UF — venture competitions, pitch workshops, and introductions to founders and investors in the Gainesville technology ecosystem.
 
     Awards:
-      - name: UF Space Initiative 2024 Innovation Challenge — Winner
+      - title: UF Space Initiative 2024 Innovation Challenge — Winner
         date: 2024-11-01
-        issuer: University of Florida Space Initiative
+        awarder: University of Florida Space Initiative
         icon: fa-solid fa-trophy
         summary: One of five winners. Team featured in the Space Force Association's official pre-Spacepower magazine as "a dynamic group who embodied the power of cross-disciplinary collaboration." Attended Spacepower 2024 in Orlando as part of the award.
 
@@ -195,7 +199,7 @@ cv:
       - name: 3D & Photogrammetry
         level: Intermediate
         icon: fa-solid fa-cube
-        keywords: "Agisoft Metascape, AutoCAD, SolidWorks, drone orthophotography, 3D site modeling"
+        keywords: "Agisoft Metashape, AutoCAD, SolidWorks, drone orthophotography, 3D site modeling"
 
       - name: Neurotechnology
         level: Intermediate
@@ -227,9 +231,9 @@ cv:
         icon: fa-solid fa-wave-square
         keywords: "EEG, BCI, neural data, real-time signal processing"
 
-      - name: ML Interpretability
+      - name: ML Interpretability & Research Integrity
         icon: fa-solid fa-magnifying-glass
-        keywords: "Shortcut detection, fairness, situated knowledge, evaluation"
+        keywords: "Shortcut detection, fairness, situated knowledge, evaluation, credential farming, Goodhart dynamics / metric gaming"
 
       - name: Beyond the lab
         icon: fa-solid fa-sailboat
@@ -311,10 +315,100 @@ cv:
         url: https://www.medrxiv.org/content/10.64898/2026.04.29.26352053v1
         summary: Unified framework to detect, benchmark, and mitigate shortcut learning in ML models — across medical imaging and beyond. 20+ detection methods plus 6 mitigation techniques under one API, benchmarked on CheXpert, MIMIC-CXR, and CelebA. Released on PyPI under MIT License. My contribution was the unifying ontology bridging anthropological and ML definitions of "shortcut."
 
+      - title: "Credential Farming in the Age of Generative AI: Relocating Trust from Outputs to Communities"
+        authors:
+          - Gift Osei Agyemang
+          - Rawad AL-Louzi
+          - Melat Mezgebu Bawoke
+          - Connor Bender
+          - Leo Anthony Celi
+          - Nishita Chavan
+          - Rahul Gorijavolu
+          - Diego Halac
+          - Nikhil Jaiswal
+          - Sofiya Mikolutskaya
+          - Anthony Nguyen
+          - Raúl Ignacio Rojas Sillery
+          - Sparsh Roy
+          - Dharaa Suresha
+          - Alexa Q. Xiang
+          - Boya Zhang
+        publisher: Manuscript submitted
+        releaseDate: 2026
+        summary: Generative AI has weakened the inference from research outputs to the competencies they were meant to signal — producing a gaming dynamic where effort shifts toward optimizing the credential rather than the learning behind it. The paper argues academic trust must relocate from manufactured outputs to formation inside research communities. Authors listed alphabetically by surname.
+
+      - title: "Community Auditing of Health AI in Low- and Middle-Income Countries: The SAKSHI Investigative Protocol"
+        authors:
+          - Alexa Q. Xiang
+          - Alexander Cole Bank
+          - Josephine Nanyonjo
+          - Milit S. Patel
+          - Mkliwa Koumbia
+          - Rahul Gorijavolu
+          - Nikhil Jaiswal
+          - Noushin Nazarian
+          - Rawad AL-Louzi
+          - Soham Biren Katlariwala
+          - Kaushik Madapati
+          - Hillary Clinton Kasimbazi
+          - Cecilia Cocucci
+          - Diego Halac
+          - Raúl Ignacio Rojas Sillery
+          - Leo Anthony Celi
+          - and others
+        publisher: Manuscript submitted
+        releaseDate: 2026
+        summary: SAKSHI (Structured Accountability through Knowledge, Scrutiny, and Health Integrity) is a community-operated investigative platform supplying independent scrutiny of health-AI deployment in LMICs — settings where regulatory frameworks have not kept pace with autonomous diagnostic and prescribing tools, and where tort systems offer little recourse for patients who are harmed.
+
+      - title: "Hallucinations Are the Least of Our Concerns: Situating Knowledge for Responsible AI in Health"
+        authors:
+          - Alexa Q. Xiang
+          - Andres Rico
+          - Biruk Zenebe Bekele
+          - Bita Behrouzi
+          - Boya Zhang
+          - Cecilia Cocucci
+          - Diego Halac
+          - Jennifer Ziegler
+          - Jie Song
+          - Josephine Nanyonjo
+          - Leo Anthony Celi
+          - Raúl Ignacio Rojas Sillery
+          - and others
+        publisher: Manuscript in preparation
+        releaseDate: 2026
+        summary: Argues that situated knowledge — not reference-checking — is the prerequisite for responsible LLM use in health. Reframes "hallucinations" as a secondary concern compared to the deeper gap between model outputs and the local knowledge contexts where health decisions actually land.
+
+      - title: "The Oracle in Your Pocket: How AI May Amplify the Dunning-Kruger Effect and Why Epistemic Humility Matters"
+        authors:
+          - Rogers Mwavu
+          - Cecilia Cocucci
+          - Sofiya Mikolutskaya
+          - Diego Halac
+          - Mohammad Ahmad Abdelaziz Al-Zu'bi
+          - Raúl Ignacio Rojas Sillery
+          - Konrad Bertram
+          - Alexa Q. Xiang
+          - Sparsh Roy
+          - Elizabeth Louie
+          - Joël Hanhart
+          - Rawad AL-Louzi
+          - Leo Anthony Celi
+        publisher: Manuscript in preparation (submission not yet confirmed)
+        releaseDate: 2026
+        summary: Examines how repeated use of LLMs may alter users' perceptions of their own expertise. Draws on cognitive science (Dunning-Kruger, metacognition, cognitive offloading, cognitive surrender) to argue for epistemic humility and sharper AI literacy — with emphasis on health misinformation, Indigenous knowledge systems, and science communication.
+
+      - title: "AGORA Peer Review: A Measurement-First Architecture for Auditable Scientific Agent Systems"
+        authors:
+          - AGORA Working Group, MIT Critical Data
+        publisher: In development
+        releaseDate: 2026
+        summary: An experimental research programme for studying AI-mediated scientific peer review as an auditable multi-agent system. On the team; contributing to early-stage work.
+
     Beyond:
       - name: Fieldwork
         icon: fa-solid fa-trowel
-        reference: "Four-week UF archaeological field program at Huanchaco, Peru. Excavated a Chimú child-sacrifice site (~800–1500 CE) at Pampa La Cruz under Dr. Gabriel Prieto. Captured drone orthophotography and built 3D site models in Agisoft Metascape + AutoCAD; studied osteological remains under Dr. John Verano."
+        reference: "Four-week UF archaeological field program at Huanchaco, Peru. Excavated a Chimú child-sacrifice site (~800–1500 CE) at Pampa La Cruz under Dr. Gabriel Prieto. Captured drone orthophotography and built 3D site models in Agisoft Metashape + AutoCAD; studied osteological remains under Dr. John Verano."
 
       - name: Athletics
         icon: fa-solid fa-water

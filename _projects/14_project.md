@@ -8,7 +8,7 @@ category: builds
 related_publications: false
 ---
 
-**Self-Nudging Dashboard** is a small, offline-ready web page that greets you each morning with a randomized prompt — the kind of question that nudges you back toward the habits you actually said you wanted. Think of it as the lightest-possible MVP of the bigger idea behind [Deep Focus Trainer](/projects/4_project/): use local tools and personal data to shape behavior through intentional, low-friction nudging.
+**Self-Nudging Dashboard** is a small, offline-ready web page that greets you each morning with a randomized prompt — the kind of question that nudges you back toward the habits you actually said you wanted. Think of it as the lightest-possible MVP of the bigger idea behind [Deep Focus Trainer]({{ '/projects/4_project/' | relative_url }}): use local tools and personal data to shape behavior through intentional, low-friction nudging.
 
 ## What it does
 

@@ -16,7 +16,7 @@ A four-week intensive archaeological field program with the **[University of Flo
 
 - Participated in excavations of a **Chimú child-sacrifice site** in use **~800–1500 CE**.
 - Captured **drone orthophotography** of the excavation at successive stages.
-- Built **3D site models** in **Agisoft Metascape** and **AutoCAD** from the drone passes.
+- Built **3D site models** in **Agisoft Metashape** and **AutoCAD** from the drone passes.
 - Studied **osteological remains** under **[Dr. John Verano](https://scholar.google.com/citations?user=ljEDZe4AAAAJ)**.
 - Catalogued ceramics, textiles, and ritual items coming off the trench.
 
@@ -24,7 +24,7 @@ A four-week intensive archaeological field program with the **[University of Flo
 
 ## Why this sits beside my AI work, not apart from it
 
-The reason I keep both majors is right here: it's the same substrate — human pattern-making — showing up as mural geometry and as model latent space. Drone orthophoto → Metascape point cloud → interpretable 3D model is the same translation move as photo → SigLIP embedding → classifier output. Different tools, same instinct.
+The reason I keep both majors is right here: it's the same substrate — human pattern-making — showing up as mural geometry and as model latent space. Drone orthophoto → Metashape point cloud → interpretable 3D model is the same translation move as photo → SigLIP embedding → classifier output. Different tools, same instinct.
 
 Life outside the trench: ceviche, long waves, and the first time I understood why the Pacific looks different from the Caribbean.
 

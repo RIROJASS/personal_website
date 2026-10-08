@@ -32,4 +32,4 @@ An **eleven-author** paper led by **[Sebastian Cajas](https://sebasmos.github.io
 
 ## Status
 
-In review at IEEE Access. See the [publications page](/publications/) for the citation entry.
+In review at IEEE Access. See the [publications page]({{ '/publications/' | relative_url }}) for the citation entry.

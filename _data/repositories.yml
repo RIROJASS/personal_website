@@ -4,5 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  # Add your public repos here, e.g. RIROJASS/repo-name
-  - RIROJASS/personal-website
+  - criticaldata/ShortKit-ML
+  - RIROJASS/SigLIP-image-embedding
+  - RIROJASS/Remote-Sensing-Object-Detection-with-YOLOv8
+  - RIROJASS/Self-Nudging_Dashboard
+  - RIROJASS/personal_website
