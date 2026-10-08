@@ -231,13 +231,13 @@ cv:
         icon: fa-solid fa-wave-square
         keywords: "EEG, BCI, neural data, real-time signal processing"
 
-      - name: ML Interpretability & Research Integrity
+      - name: ML Interpretability
         icon: fa-solid fa-magnifying-glass
-        keywords: "Shortcut detection, fairness, situated knowledge, evaluation, credential farming, Goodhart dynamics / metric gaming"
+        keywords: "Shortcut detection, fairness, situated knowledge, evaluation"
 
       - name: Beyond the lab
         icon: fa-solid fa-sailboat
-        keywords: "Freediving (Key Biscayne), competitive rowing (Miami Rowing Club), bull riding, cooking, poetry, options trading"
+        keywords: "Freediving (Key Biscayne), competitive rowing (Miami Rowing Club), bull riding, video games, cooking, poetry, options trading"
 
     Certificates:
       - name: NVIDIA DLI — Deep Learning Fundamentals
