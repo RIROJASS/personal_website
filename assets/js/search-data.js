@@ -77,8 +77,8 @@ ninja.data = [{
             window.location.href = "/personal_website/blog/2024/innovation-summit-notes/";
           
         },
-      },{id: "news-attended-innovation-summit-2024-most-useful-hallway-conversation-was-with-jack-kendall-cto-rain-ai-on-neuromorphic-computing-which-maps-uncomfortably-well-onto-the-bci-work-notes",
-          title: 'Attended Innovation Summit 2024 — most useful hallway conversation was with Jack Kendall...',
+      },{id: "news-attended-innovation-summit-2024-the-best-session-was-jack-kendall-cto-rain-ai-on-neuromorphic-computing-which-maps-uncomfortably-well-onto-the-bci-work-notes",
+          title: 'Attended Innovation Summit 2024 — the best session was Jack Kendall (CTO, Rain...',
           description: "",
           section: "News",},{id: "news-one-of-five-winners-of-the-uf-space-initiative-2024-innovation-challenge-got-the-orange-winner-badge-at-spacepower-2024-in-orlando-the-space-force-association-called-our-team-a-dynamic-group-who-embodied-the-power-of-cross-disciplinary-collaboration-full-notes",
           title: 'One of five winners of the UF Space Initiative 2024 Innovation Challenge —...',
